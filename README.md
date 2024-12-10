@@ -75,6 +75,6 @@
 
 <h3>📫 Contacta conmigo:</h3>
 <p align="left">
-📧 Correo: [Tu correo aquí]  
-🔗 LinkedIn: [Tu perfil aquí]  
+📧 Correo: almazanluis23@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9
 </p>
