@@ -1,21 +1,28 @@
 <h1 align="center">Hola 👋, soy Luis Angel Almazán de Jesús</h1>
 <h3 align="center">Desarrollador Backend apasionado por construir soluciones escalables y eficientes 🚀</h3>
 
-<p align="center">👨‍💻 Especializado en el diseño e implementación de sistemas robustos del lado del servidor, integraciones con APIs y gestión de bases de datos avanzadas.</p>
+---
+
+<h3>💡 Sobre mí:</h3>
+<p>
+💻 Soy un desarrollador Full-Stack especializado en backend, con experiencia profesional en tecnologías como Node.js, NestJS, Express, PostgreSQL, MongoDB y TypeScript. Resido en México, pero trabajo con equipos y proyectos globales.  
+🔧 Me apasiona diseñar sistemas robustos, optimizar procesos y transformar ideas en soluciones tecnológicas que impacten positivamente.  
+📜 Actualmente estoy perfeccionando mis habilidades en TypeScript, NestJS y arquitecturas orientadas a microservicios, además de profundizar en infraestructura con Docker, Kubernetes y Linux avanzado.  
+🌱 Fiel creyente en el aprendizaje continuo, siempre dispuesto a colaborar, compartir conocimientos y ayudar a otros a crecer en su carrera.  
+💬 Si estás interesado en hablar sobre tecnología, proyectos colaborativos o explorar oportunidades, ¡no dudes en contactarme!  
+</p>
 
 ---
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="almazanluis23@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Correo" width="40" height="40"/>
-  </a>
-</p>
+<h3>🌍 Lenguas humanas:</h3>
+<ul>
+  <li>Español: C2 (Nativo)</li>
+  <li>Inglés: C1</li>
+</ul>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+---
+
+<h3>⚙️ Idiomas y herramientas:</h3>
 <p align="left">
   <!-- Backend -->
   <strong>Backend:</strong><br>
@@ -41,10 +48,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
-  <strong>Infraestructura y herramientas:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <!-- Infraestructura -->
+  <strong>Infraestructura:</strong><br>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -55,6 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
   </a>
 
+  <!-- Lenguajes -->
   <strong>Lenguajes:</strong><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -62,13 +68,18 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-<p align="center">
-  ✨ **Me apasiona resolver problemas complejos y construir soluciones que impacten positivamente a las personas.** ✨
+<h3>📫 Contacta conmigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:tu-correo@example.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Correo" width="40" height="40"/>
+  </a>
 </p>
+
+<p align="center">✨ "El éxito no está en el código perfecto, sino en cómo el software impacta la vida de las personas." ✨</p>
