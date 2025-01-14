@@ -7,7 +7,7 @@
 <p>
 💻 Soy un desarrollador Full-Stack especializado en backend, con experiencia profesional en tecnologías como Node.js, NestJS, Express, PostgreSQL, MongoDB y TypeScript. Resido en México, pero trabajo con equipos y proyectos globales.  
 🔧 Me apasiona diseñar sistemas robustos, optimizar procesos y transformar ideas en soluciones tecnológicas que impacten positivamente.  
-📜 Actualmente estoy perfeccionando mis habilidades en TypeScript, NestJS y arquitecturas orientadas a microservicios, además de profundizar en infraestructura con Docker, Kubernetes y Linux avanzado.  
+📜 Actualmente estoy perfeccionando mis habilidades en TypeScript, NestJS y arquitecturas orientadas a microservicios, además de profundizar en infraestructura con Docker y React.  
 🌱 Fiel creyente en el aprendizaje continuo, siempre dispuesto a colaborar, compartir conocimientos y ayudar a otros a crecer en su carrera.  
 💬 Si estás interesado en hablar sobre tecnología, proyectos colaborativos o explorar oportunidades, ¡no dudes en contactarme!  
 </p>
