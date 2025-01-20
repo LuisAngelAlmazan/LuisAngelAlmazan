@@ -25,14 +25,23 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<h3 align="left">Perfil  en linkedin :</h3> <a href="https://linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-angel-almazán-de-jesús-1404181a9" height="30" width="40" /></a>
+  <h3 align="left">Perfil en LinkedIn:</h3>
+  <a href="https://linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9" target="_blank">
+    Luis Ángel Almazán de Jesús
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn - Luis Ángel Almazán de Jesús" height="30" width="40" />
+  </a>
 </p>
-<h3 align="left">Enviame un correo :</h3> <p align="left">
+
+<p align="left">
+  <h3 align="left">Envíame un correo:</h3>
   <a href="mailto:almazanluis23@gmail.com" target="_blank">
+    almazanluis23@gmail.com
     <img align="center" src="https://th.bing.com/th/id/OIP.FQWR9pN6mg9ygmbc2BQqLQHaFY?rs=1&pid=ImgDetMain" 
          alt="Enviar correo a Luis Ángel Almazán" height="30" width="40" />
   </a>
 </p>
+
 
 
 🌍 Ubicacion: México
