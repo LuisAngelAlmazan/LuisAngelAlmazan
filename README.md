@@ -5,11 +5,13 @@
 
 <h3>💡 Sobre mí:</h3>
 <p>
-💻 Soy un desarrollador Full-Stack especializado en backend, con experiencia profesional en tecnologías como Node.js, NestJS, Express, PostgreSQL, MongoDB y TypeScript. Resido en México, pero trabajo con equipos y proyectos globales.  
-🔧 Me apasiona diseñar sistemas robustos, optimizar procesos y transformar ideas en soluciones tecnológicas que impacten positivamente.  
-📜 Actualmente estoy perfeccionando mis habilidades en TypeScript, NestJS y arquitecturas orientadas a microservicios, además de profundizar en infraestructura con Docker y React.  
-🌱 Fiel creyente en el aprendizaje continuo, siempre dispuesto a colaborar, compartir conocimientos y ayudar a otros a crecer en su carrera.  
-💬 Si estás interesado en hablar sobre tecnología, proyectos colaborativos o explorar oportunidades, ¡no dudes en contactarme!  
+💻👋 ¡Hola! Soy Luis Ángel Almazán De Jesús, graduado en Ingeniería en Mecatrónica ⚙️ y actualmente Desarrollador Full Stack 👨‍💻. Soy de México y, además de mi pasión por la tecnología, practico escalada 🧗‍♂️, una actividad que me impulsa a superar retos y mantenerme enfocado.
+
+Mi formación en ingeniería me brindó una sólida base en programación y resolución de problemas, lo que me llevó a especializarme en el desarrollo de software tras completar un bootcamp intensivo en desarrollo web. Manejo tecnologías como JavaScript, React y NestJS 🚀, y me apasiona crear soluciones digitales innovadoras, escalables y centradas en el usuario.
+
+Soy una persona proactiva, con facilidad para trabajar en equipo y compartir conocimientos. Me encanta mantenerme actualizado con las últimas tendencias tecnológicas y siempre busco oportunidades para aprender, crecer y contribuir en cada proyecto 💡.
+
+✨ ¡Conectemos y exploremos cómo podemos colaborar! 🤝
 </p>
 
 ---
