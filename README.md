@@ -77,6 +77,7 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 
 <h3>📫 Contacta conmigo:</h3>
 <p align="left">
-📧 Correo: almazanluis23@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9
+📧 Correo: almazanluis23@gmail.com  <br>
+🔗 LinkedIn: www.linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9<br>
+🌍 Ubicacion: México
 </p>
