@@ -35,7 +35,7 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 <p align="left">
   <a href="mailto:almazanluis23@gmail.com" target="_blank">
     <span>Correo:</span>
-    <img align="center" src="[https://th.bing.com/th/id/OIP.FQWR9pN6mg9ygmbc2BQqLQHaFY?rs=1&pid=ImgDetMain](https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg)" 
+    <img align="center" src="file:///C:/Users/almaz/Downloads/gmail-svgrepo-com.svg" 
          alt="Enviar correo a Luis Ángel Almazán" height="30" width="40" />
   </a>
 </p>
