@@ -18,8 +18,7 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 
 <h3>🌍 Lenguas humanas:</h3>
 <ul>
-  <li>Español: C2 (Nativo)</li>
-  <li>Inglés: C1</li>
+  <li>Inglés: A2</li>
 </ul>
 
 ---
