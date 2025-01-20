@@ -27,9 +27,10 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 <p align="left">
   <h3 align="left">Perfil en LinkedIn:</h3>
   <a href="https://linkedin.com/in/luis-angel-almazán-de-jesús-1404181a9" target="_blank">
-  </a>
+ 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="LinkedIn - Luis Ángel Almazán de Jesús" height="30" width="40" />
+  </a>
 </p>
 
 <p align="left">
