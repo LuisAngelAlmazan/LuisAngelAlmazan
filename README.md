@@ -18,7 +18,7 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 
 <h3 align="left">Idiomas y herramientas:</h3>
 
-<table style="width: 100%; border: none; text-align: center;">
+<table style="width: 80%; margin: 0 auto; border: none; text-align: center; background-color: white; padding: 20px; border-radius: 10px;">
   <tr>
     <td style="padding: 15px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a></td>
     <td style="padding: 15px;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a></td>
@@ -36,6 +36,7 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
     <td style="padding: 15px;"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a></td>
   </tr>
 </table>
+
 
 
 
