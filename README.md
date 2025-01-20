@@ -38,10 +38,6 @@ Soy una persona proactiva, con facilidad para trabajar en equipo y compartir con
 </table>
 
 
-
-
-
-
 ---
 
 <h3 align="left">Conéctate conmigo:</h3>
